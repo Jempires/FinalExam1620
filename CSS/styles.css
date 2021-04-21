@@ -8,7 +8,7 @@ header {
     color: #E6E6FA;
 }
 .nav {
-    text-align: right;
+    text-align: center;
     font-size: 20px;
     margin-bottom: 5px;
 
@@ -54,7 +54,7 @@ h1 {
  }
 .shop-items {
     color:#191970;
-    font-size: 25px;
+    font-size: 15px;
 }
 
 #shop1 {
@@ -121,5 +121,12 @@ footer {
 
     h2 {
         font-size: 35px;
+    }
+    .nav {
+        text-align: right;
+    }
+    .shop-items {
+        color:#191970;
+        font-size: 25px;
     }
 }
